@@ -76,12 +76,6 @@ We welcome contributions! To contribute, follow these simple steps:
 
 Please ensure that your code follows the existing coding style and includes proper documentation.
 
-## 📱 Screenshots
-
-Here are a few snapshots of the game in action:
-
-![Game Screenshot 1](path/to/screenshot1.jpg)
-![Game Screenshot 2](path/to/screenshot2.jpg)
 
 ## ⚙️ License
 
