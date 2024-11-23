@@ -48,6 +48,8 @@ This project is built using **Unity** and **C#**. Here’s a brief overview of t
 
 ## 💻 Code Structure
 
+## 💻 Code Structure
+
 ```plaintext
 HelixJump/
 │
@@ -62,6 +64,7 @@ HelixJump/
 │   └── Scenes/
 ├── ProjectSettings/
 └── README.md
+```
 
 ## 🛠️ How to Contribute
 
