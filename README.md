@@ -17,7 +17,7 @@ Welcome to the **Helix Jump Game in Unity**! This is an engaging and fun 3D game
 To get the game running on your machine, follow these steps:
 
 ### Requirements
-- **Unity** (version X.X or higher)
+- **Unity** (version 3.1 or higher)
 - **Visual Studio** (or any preferred C# IDE)
 
 ### Steps:
@@ -45,8 +45,6 @@ This project is built using **Unity** and **C#**. Here’s a brief overview of t
 - **BallController.cs**: Handles the ball’s movement and collision detection.
 - **GameManager.cs**: Controls the overall game logic, score tracking, and level progression.
 - **UIManager.cs**: Manages the user interface elements like the score display and menus.
-
-## 💻 Code Structure
 
 ## 💻 Code Structure
 
