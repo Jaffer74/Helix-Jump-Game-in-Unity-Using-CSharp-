@@ -2,7 +2,7 @@
 
 Welcome to the **Helix Jump Game in Unity**! This is an engaging and fun 3D game built with Unity and C# where players navigate a ball through a helix tower, avoiding obstacles and collecting rewards. The game offers smooth mechanics, dynamic movement, and visually appealing design.
 
-![Helix Jump Game Screenshot](path/to/your/screenshot.jpg)
+![Helix Jump Game Screenshot](.jpg)
 
 ## 🛠️ Features
 - **3D Gameplay:** Navigate through a colorful, rotating helix tower with smooth controls.
