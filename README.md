@@ -79,7 +79,7 @@ Please ensure that your code follows the existing coding style and includes prop
 
 ## ⚙️ License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ## 🙏 Acknowledgements
 - Unity Technologies for providing the Unity engine.
