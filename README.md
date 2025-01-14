@@ -24,7 +24,7 @@ To get the game running on your machine, follow these steps:
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/Jaffer74/Helix-Jump-Game-in-Unity-Using-CSharp.git
-### Steps:
+
 2. Open the project in Unity:
    - Launch **Unity Hub** and click on **Open Project**.
    - Navigate to the cloned folder and open the project.
